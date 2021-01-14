@@ -1,6 +1,6 @@
 # SpringMVCProject
 
-## 專題主題自行車環島網站
+## 專題主題：自行車環島網站
 
 本人負責-活動系統、行程規劃、後台管理及分析
 (package:main.java.jackey、jsp:WebContent/WEB-INF/pages/event)
